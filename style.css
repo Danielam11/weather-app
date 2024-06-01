@@ -1,0 +1,64 @@
+body{
+    background-color:#06283D ;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.card{
+    width: 300px;
+    height: 400px;
+    color:#06283D ;
+    background-color: aliceblue;
+    padding: 30px;
+    
+    
+}
+.location{
+   display: flex;
+   
+    justify-items: space-between;
+
+}
+#lupa{
+    width: 30px;
+    height: 30px;
+    margin-left: 170px;
+    
+}
+.cloud{
+    display: flex;
+  
+    justify-content: center;
+}
+#nube{
+    width: 140px;
+    height: 140px;    
+}
+
+.grades{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+}
+
+.climate{
+    display: flex;
+   
+    justify-content: space-between;
+    
+}
+#viento{
+
+    width: 40px;
+    height: 40px;
+}
+#grados{
+    margin: 0;
+    margin-top: 5px;
+}
